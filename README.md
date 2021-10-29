@@ -31,7 +31,7 @@ The usual convention is this folder structure:
 To run this container directly:
 
 ```bash
-docker run -it 
+docker run -it ghcr.io/infernalholm/spheresvrx:main
 ```
 
 **Notice**: SphereSrv requires the `--interactive` and `--tty` flags to be set.
