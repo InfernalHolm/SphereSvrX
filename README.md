@@ -1,6 +1,6 @@
-# SphereSrvX 
+# SphereSvrX 
 
-> Nightly linux64 build of SphereSrvX
+> Nightly linux64 build of [SphereSrvX](https://github.com/Sphereserver/Source-X)
 
 ## About
 
